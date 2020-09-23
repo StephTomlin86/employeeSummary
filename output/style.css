@@ -1,0 +1,17 @@
+body {
+  background-color: #f0c09b;
+}
+.container-fluid .col-12 {
+  background-color: #52d1e8;
+}
+.card {
+  background-color: #96c29b;
+  margin-left: 6px;
+  margin-top: 10px;
+}
+.card-header {
+  color: rgb(55, 54, 54);
+}
+.fas {
+  color: #036c83;
+}
