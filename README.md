@@ -1,1 +1,3 @@
 # employeeSummary
+
+![Readme](./employeesummary.gif)
